@@ -1,5 +1,5 @@
 # <h1>Wide Coverage</h1>
-<div aling=c"center">
+<div aling="center">
 <img height="300em" height="300em" src="https://github.com/JECSMoura/Wide-Coverage/blob/master/assets/desktop.png?raw=true">
 </div>
 
